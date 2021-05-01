@@ -1,3 +1,3 @@
 #Testing
 
-print("whatsup woorrrrrrld??")
+print("whatsup earthlings?")
